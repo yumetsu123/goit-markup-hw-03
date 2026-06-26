@@ -17,7 +17,7 @@
 }
 
 .portfolio-item {
-    width: calc((100% - (24px * 3)) / 3);
+    width: calc((100% - (24px * 2)) / 3);
     background-color: #fff;
 }
 
