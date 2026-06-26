@@ -11,6 +11,6 @@
     display: flex;
     flex-direction: column;
     gap: 8px;
-    max-width: 264px;
+    flex-basis: 264px;
 }
 
