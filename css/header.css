@@ -1,0 +1,19 @@
+.navigation-link {
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.navigation-link:hover,
+.navigation-link:focus {
+    color: #404BBF;
+}
+
+.header-contacts {
+    font-style: normal;
+}
+
+.socials-link:hover,
+.socials-link:focus {
+    color: #404BBF;
+}
+
